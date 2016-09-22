@@ -1,6 +1,6 @@
 {
   "name": "tic-tac-toe",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "tic tac toe on the command line using node.js",
   "main": "index.js",
   "scripts": {
